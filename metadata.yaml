@@ -1,11 +1,16 @@
 _repo: Catching-of-the-whale-and-seal-b-or-Henry-Acton-s-conversation-to-his-son-William-on-the-whal__72862
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72862-h/images/cover.jpg
 creator:
   author:
     agent_name: Acton, Henry
     gutenberg_agent_id: '56839'
     url: http://www.gutenberg.org/2009/agents/56839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72862#Catching-of-the-whale-and-seal-b-or-Henry-Acton-s-conversation-to-his-son-William-on-the-whal_
 gutenberg_issued: '2024-02-03'
 gutenberg_type: Text
 identifiers:
